@@ -36,7 +36,7 @@ MySQL Database
 Git
 🚀 Instalasi
 1. Clone Repository
-git clone https://github.com/your-username/aplikasi-pengaduan-masyarakat.git
+git clone https://github.com/zeon0505/project-website-e-raport-fajar-pranayga-250458302021.git
 cd aplikasi-pengaduan-masyarakat
 2. Install Dependencies
 # Install PHP dependencies
